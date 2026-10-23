@@ -1,0 +1,1 @@
+spin e2e dotfiles: this file arriving in a workspace's $HOME is what the test checks.
